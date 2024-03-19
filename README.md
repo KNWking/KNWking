@@ -1,4 +1,4 @@
-### Hi there 👋
+# KNWking
 
 <!--
 **KNWking/KNWking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<strong>魔怔人。</strong>
+Currently studying at CUMT as a freshman.
+I plan to build my own blog in the near future to document my coding journey.
+I will use GitHub to record my code life.
