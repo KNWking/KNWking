@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 <strong>魔怔人。</strong>
 <br>
 Currently studying at CUMT as a freshman.
-I plan to build my own blog in the near future to document my coding journey.
-I will use GitHub to record my code life.
+Plan to build my own blog in the near future to document my coding journey.
+Use GitHub to record my code life.
