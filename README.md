@@ -21,7 +21,7 @@ Plan to build my own blog in the near future to document my coding journey.
 Use GitHub to record my code life.
 
 
-[![GitHub 统计](https://github-readme-stats.vercel.app/api?username=KNWking&count_private=true&theme=algolia&locale=cn&include_all_commits=true&show_icons=true "GitHub 统计")](https://github-readme-stats.vercel.app/api?username=lc6464&count_private=true&theme=algolia&locale=cn&include_all_commits=true&show_icons=true)
+[![GitHub 统计](https://github-readme-stats.vercel.app/api?username=KNWking&count_private=true&theme=algolia&locale=cn&include_all_commits=true&show_icons=true "GitHub 统计")](https://github-readme-stats.vercel.app/api?username=KNWking&count_private=true&theme=algolia&locale=cn&include_all_commits=true&show_icons=true)
 
 
-[![最常用的语言](https://github-readme-stats.vercel.app/api/top-langs?username=KNWking&theme=algolia&locale=cn "最常用的语言")](https://github-readme-stats.vercel.app/api/top-langs?username=lc6464&theme=algolia&locale=cn)
+[![最常用的语言](https://github-readme-stats.vercel.app/api/top-langs?username=KNWking&theme=algolia&locale=cn "最常用的语言")](https://github-readme-stats.vercel.app/api/top-langs?username=KNWking&theme=algolia&locale=cn)
